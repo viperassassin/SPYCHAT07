@@ -12,8 +12,8 @@ from termcolor import colored
 init()
 
 # Adding default status messages
-STATUS_MESSAGES = ['My name is Raj, Simran Raj', 'What a drag!', "Live and Let Die",
-                   "Diamonds are forever", "Disappointed and not surprised", "What in tarnation!"]
+STATUS_MESSAGES = ['My name is Raj, biplove ansh', 'What a drag!', "Live and Let Die",
+                   "assassin are for kills", "Disappointed and not surprised", "What in tarnation!"]
 
 # Let's start by greeting.
 print(colored("Hello!", "blue"))
